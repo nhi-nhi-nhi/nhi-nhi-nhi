@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
->I am a university student specialised in AI
-
-- just casually learning how to code at the moment
-- fun fact: I used to have 2 metal teeth (cool shiny silver ones), but I replaced them for the white ones :( 
+>I am a university student specialised in AI (Computer Vision & Autonomous Car) (just learning)
