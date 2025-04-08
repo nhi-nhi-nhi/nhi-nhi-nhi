@@ -27,3 +27,9 @@ Here are some ideas to get you started:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhi-nhi-nhi&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
+
+---
+<h3>Now Playing~</h3>
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/track/1IbgYIuVwJsibCcT5GFYHy?si=b45c15db5a5e47e5)
+<br/>
+---
