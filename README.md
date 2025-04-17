@@ -12,13 +12,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
 
 
 <h1 align="center">Hola, my name is Nhi</h1>
 <h3 align="center">>I am an undergrat specialised in AI (Computer Vision & Autonomous Car)</h3>
-<img align="right" alt="Nhi_Starter_Pack" src="https://github.com/user-attachments/assets/faee0e59-ae8b-4b41-95cf-217df2301b5d">
+<img align="right" alt="Nhi_Starter_Pack" src="https://github.com/user-attachments/assets/3b49168e-4da1-40d0-a77b-5b0c13327843">
 
 <h3>Statistic</h3>
 
