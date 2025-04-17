@@ -4,6 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,8 +18,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hola, my name is Nhi</h1>
 <h3 align="center">>I am an undergrat specialised in AI (Computer Vision & Autonomous Car)</h3>
 <img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRyN2VvMXMwd3g3cDhycnB4ZTdvbTR5Mzk1bHVzbnY2ZzB0b3VwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.webp">
-<img src="https://github.com/nhi-nhi-nhi/nhi-nhi-nhi/blob/main/nhi_starterpack.gif
-"/>
+![nhi_starterpack_smol](https://github.com/user-attachments/assets/9f540032-cab3-4ce7-a995-062d6ea03c32)
+
 <h3>Statistic</h3>
 
 <p align="center">
