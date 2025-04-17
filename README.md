@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hola, my name is Nhi</h1>
 <h3 align="center">>I am an undergrat specialised in AI (Computer Vision & Autonomous Car)</h3>
-<img align="right" alt="Nhi_Starter_Pack" src="https://github.com/user-attachments/assets/3b49168e-4da1-40d0-a77b-5b0c13327843">
+<img align="right" alt="Nhi_Starter_Pack" width="350" src="https://github.com/user-attachments/assets/3b49168e-4da1-40d0-a77b-5b0c13327843">
 
 <h3>Statistic</h3>
 
