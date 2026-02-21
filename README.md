@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 <h3 align="center">I am an undergrad specialised in AI (Computer Vision)</h3>
 <img align="right" alt="Nhi_Starter_Pack" width="350" src="https://github.com/user-attachments/assets/3b49168e-4da1-40d0-a77b-5b0c13327843">
 
+
+<!--
 <h3>Statistics</h3>
 
 <p align="center">
@@ -29,3 +31,4 @@ Here are some ideas to get you started:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhi-nhi-nhi&layout=compact&theme=radical&hide_border=true&utc=1" alt="Top Langs" />
 </p>
+-->
